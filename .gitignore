@@ -1,2 +1,30 @@
 
 Code/.vs/Clinic Management System/v15/.suo
+
+#User-specific files
+*.wsuo
+*.suo
+*.vsidx
+*.lock
+*.dll
+*.cache
+
+#Visual Studio cache/options directory
+.vs/
+/Code/DBProject/bin/*.dll
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+/Code/DBProject/bin/DBProject.dll
+/Code/DBProject/bin/DBProject.dll.config
+/Code/DBProject/bin/DBProject.pdb
+/Code/DBProject/Clinic Management System.csproj
+/Code/DBProject/packages.config
+/Code/DBProject/Web.config
