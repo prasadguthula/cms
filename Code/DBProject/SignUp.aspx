@@ -192,7 +192,7 @@
                    <div class="row">
                          <div class="col-sm-8 col-sm-offset-2 text">
                         
-                            <h1><strong>MedicX 4 Health Care</strong> Login &amp; Registration Form</h1>
+                            <h1><strong>Prasad CMS</strong> Login &amp; Registration Form</h1>
                             
                             <div class="description">
                             	<p>
