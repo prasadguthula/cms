@@ -196,7 +196,7 @@
                             
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Login and Registration form"</strong> for Health Care Clinic. 
+	                            	This is the <strong>"Login and Registration form"</strong> for Prasad CMS. 
                             	</p>                            
                             </div>
                         </div>
